@@ -1,0 +1,78 @@
+
+h1 {
+    color: rgb(16, 78, 194);
+    background-color: rgb(144, 180, 245);
+    text-align: center;
+    border-radius: 30px;
+    border: 2px solid red;
+}
+
+.h {
+    color: black;
+    background-color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+h2 {
+    color: rgb(0, 85, 0);
+}
+
+.sec {
+    text-align: center;
+    background-color: yellow;
+}
+
+img {
+   width: 1400px;
+}
+
+iframe {
+    width: 1450px;
+    height: 500px;
+}
+
+.ss {
+    width: 1300px;
+    height: 40px;
+}
+
+button {
+    background-color: #224e90;
+    color: white;
+    width: 400px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.one {
+width: 170px;
+height: 30px;
+}
+
+table {
+    text-align: center;
+    color: white;
+}
+
+.two {
+    width: 1130px;
+}
+
+.green {
+    background-color: green;
+}
+
+.redd {
+    background-color: red;
+}
+
+.purple {
+    background-color: #33006d;
+}
+
+.black {
+    background-color: black;
+}
